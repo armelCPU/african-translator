@@ -1,0 +1,4 @@
+elasticsearch==7.1.0
+transformers==4.16.2
+gensim==3.7.1
+Flask==2.0.2
